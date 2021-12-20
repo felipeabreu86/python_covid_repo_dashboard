@@ -1,4 +1,4 @@
-# Lista de Tarefas
+# Covid Dashboard com Python
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/felipeabreu86/python_covid_repo_dashboard/blob/main/LICENSE) 
 
 # Sobre o Projeto
