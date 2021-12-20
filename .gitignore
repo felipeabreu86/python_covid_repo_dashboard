@@ -1,0 +1,9 @@
+# Miscellaneous
+.env
+.idea
+venv
+*pyc
+__pycache__
+.vscode
+*.log
+HIST_PAINEL_COVIDBR_13mai2021.csv
