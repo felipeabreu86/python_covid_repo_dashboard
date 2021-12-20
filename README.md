@@ -14,7 +14,8 @@
 - [pandas](https://pandas.pydata.org/ "pandas")
 
 # Funcionalidades
-- 
+- Dashboard Web
+- Filtros
 
 # Como Executar o Projeto
 
